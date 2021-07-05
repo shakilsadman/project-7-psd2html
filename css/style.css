@@ -1,0 +1,101 @@
+/* Header part start */
+
+header{
+
+}
+.container{
+    width: 90%;
+    overflow: hidden;
+    margin: 0 auto;
+    
+}
+
+.logo{
+    padding-top: 5px;
+    float: left;
+    width: 12%;
+}
+.logo a{}
+.logo a img{
+    margin-top: 5px;
+}
+
+.menu{
+    width: 70%;
+    float: right;
+}
+.menu ul{
+    list-style: none;
+    float: right;
+}
+.menu ul li{
+    float: left;
+}
+.menu ul li a{
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0 30px;
+    color: #626262;
+}
+
+.menu ul li:last-child a{
+    margin-right: 0;
+}
+
+.menu ul li a:hover{
+    color: gray;
+}
+
+/* Header Ends  */
+
+/* tinyone */
+
+.tinyone-section{
+    background-color: #FCDB00;
+
+}
+.logo{
+    padding-top: 5px;
+    float: left;
+    width: 22%;
+
+}
+.logo a{}
+
+}
+.logo a img{
+    float: left;
+}
+
+.menu-tinyone{
+    width: 70%;
+    float: right;
+}
+.menu-tinyone ul{
+    list-style: none;
+    float: right;
+}
+.menu-tinyone ul li{
+    float: left;
+}
+.menu-tinyone ul li a{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 30px;
+    color: black;
+}
+
+.menu-tinyone ul li:last-child a{
+    margin-right: 0;
+}
+
+.menu-tinyone ul li a:hover{
+    color: gray;
+}
+
+/* Tinyone */
